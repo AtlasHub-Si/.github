@@ -1,17 +1,46 @@
-﻿# Atlas-SI — Enterprise Agentic Architecture & Core OS
+# AtlasHub
+### Augmented Enterprise · Unified Intelligence
 
-**Atlas-SI** ([atlas-si.com](https://atlas-si.com) | [atlashub.si](https://atlashub.si)) is an AI-native engineering organization developing governed multi-agent operating systems, execution runtimes, and institutional memory fabrics.
+AtlasHub is building an integrated operating ecosystem for AI-native companies: shared intelligence, governed AI execution, infrastructure and connected business operations.
 
-### Core Architecture Matrix
+Our direction is simple: **one coherent ecosystem, clear product boundaries, and systems that work together without unnecessary duplication.**
 
-| Repository | Layer | Responsibility |
-| :--- | :--- | :--- |
-| **Atlas-Harness** | Control Plane & IaC | Reference architecture, governance contracts, AWS Terraform & Docker production stack |
-| **Atlas-Bot** | Executive Governance | Enterprise coworker interface, identity, policies, and human-in-the-loop approvals |
-| **Atlas-Agent** | Execution Runtime | Restricted 24/7 execution engine (Hermes runtime), tools, skills, and subagents |
-| **Atlas-Memory-Fabric** | Institutional Brain | Governed PostgreSQL + pgvector (1024-dim Amazon Titan v2) knowledge graph (GBrain) |
-| **Atlas-Operational-Knowledge** | Playbooks & Vault | Versioned Markdown operational procedures compatible with Obsidian |
-| **Atlas-Workforce** | Agent Catalog | Canonical specialist roles (SOUL.md), skills, and departmental definitions |
+![AtlasHub Galaxy — Command Center concept](https://github.com/AtlasHub-Si/AtlasHub-Command-Center/blob/main/assets/atlas-hub-galaxy.jpg?raw=true)
+
+> The Galaxy is a conceptual view of the intended AtlasHQ experience. It is not a live operational dashboard and does not imply that every capability is already in production.
+
+## The AtlasHub product ecosystem
+
+| Project | Mission | Main responsibilities |
+|---|---|---|
+| **[AtlasHQ](https://github.com/AtlasHub-Si/AtlasHub-Command-Center)** | Command Center | Unified group overview, contextual navigation, cross-project visibility and governance cockpit |
+| **AtlasBot** | Agent interface & orchestration | Human–AI interaction, executive assistance, agent coordination, approvals and governed actions |
+| **AtlasCortex** | Knowledge & intelligence | GBrain, Knowledge Hub, federated memory, knowledge graph and Obsidian/Markdown sources |
+| **AtlasInfra** | Infrastructure & platform operations | VPS, services, deployments, databases, observability, AI Gateway, providers, models and APIs |
+| **AtlasDesk** | CRM & voice | Companies, customers, contacts, partners, commercial pipeline, conversations and voice workflows |
+
+### Clear boundaries
+
+- **AtlasHQ connects the ecosystem**; it is not intended to replace every specialist application.
+- **AtlasBot coordinates interaction and governed agent work**; execution is delegated to approved runtimes such as Hermes.
+- **AtlasCortex owns the knowledge and memory domain**, with clear source ownership and access boundaries.
+- **AtlasInfra owns platform and infrastructure visibility**, not business CRM records.
+- **AtlasDesk owns relationship and conversation workflows**, including CRM and voice.
+
+## Shared principles
+
+- Integrate before duplicating.
+- Preserve a clear source of truth for every domain.
+- Keep permissions, auditability and tenant isolation foundational.
+- Separate internal operations from future customer-facing products.
+- Prefer reusable components and explicit interfaces over overlapping repositories.
+- Never present mock data or conceptual visuals as live system state.
+
+## Explore
+
+- [AtlasHQ — Command Center](https://github.com/AtlasHub-Si/AtlasHub-Command-Center)
+- [AtlasHQ architecture study — RFC-001](https://github.com/AtlasHub-Si/AtlasHub-Command-Center/issues/1)
 
 ---
-*Operated by **ATLAS GLOBAL TECH LTD** (UK Company No. 17401190). All rights reserved.*
+
+**AtlasHub** · Build · Connect · Innovate
