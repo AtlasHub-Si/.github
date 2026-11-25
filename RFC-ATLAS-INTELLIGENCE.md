@@ -57,3 +57,7 @@ Discovery -> research -> evaluated -> validated -> approved for reuse -> depreca
 6. Review whether any existing documentation repository should be consolidated; preserve history.
 
 No live operational data, confidential venture records or secrets in public documents.
+
+
+## 2026-11-25 — Implementation baseline
+Atlas-Intelligence is now a private repository with an initiative lifecycle, agent instructions, dossier and handoff templates, catalog and baseline lint. See https://github.com/AtlasHub-Si/Atlas-Intelligence. It covers all ideas, software, research, internal innovation and business/venture studies; existing venture-specific authorities remain unchanged. Workforce owns reusable capabilities; Cortex indexes authorized sources. No GBrain remote acceptance or bulk migration yet. Current implementation supersedes proposed folder layout above where they differ.
