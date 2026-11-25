@@ -41,3 +41,7 @@ See [license policy](LICENSE_POLICY.md) and the [organization profile](profile/R
 | [Atlas-Memory-Fabric](https://github.com/AtlasHub-Si/Atlas-Memory-Fabric) | Core component | GBrain engine source/reference for Cortex; deployed revision to verify |
 
 Research is not authorization to deploy. Legacy is read-only, not deleted. Check external clones, CI and deployment references after renames; do not reuse historical repository names.
+
+
+## 2026-11-25 — Implementation baseline
+Atlas-Intelligence is now a private repository with an initiative lifecycle, agent instructions, dossier and handoff templates, catalog and baseline lint. See https://github.com/AtlasHub-Si/Atlas-Intelligence. It covers all ideas, software, research, internal innovation and business/venture studies; existing venture-specific authorities remain unchanged. Workforce owns reusable capabilities; Cortex indexes authorized sources. No GBrain remote acceptance or bulk migration yet. Current implementation supersedes proposed folder layout above where they differ.
