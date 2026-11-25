@@ -81,6 +81,8 @@ London, United Kingdom · Lisbon, Portugal · Goiânia, Brazil
 
 Official website and contact channel: **[atlashub.si](https://atlashub.si)** · corporate communications use the `@atlashub.si` domain.
 
+[Portfolio architecture & ownership](../PORTFOLIO.md) · [Open-source & intellectual-property policy](../LICENSE_POLICY.md)
+
 For project-specific licensing and attribution, consult each repository's LICENSE and notices.
 
 ---
